@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED07C5D32826EE73007229A9 /* PlayerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED07C5D22826EE73007229A9 /* PlayerRow.swift */; };
+		ED07C5D52826F0C5007229A9 /* PlayerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED07C5D42826F0C5007229A9 /* PlayerList.swift */; };
 		EDF253C0281779DD00E91260 /* NBA_Player_FunApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF253BF281779DD00E91260 /* NBA_Player_FunApp.swift */; };
 		EDF253C2281779DD00E91260 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF253C1281779DD00E91260 /* ContentView.swift */; };
 		EDF253C4281779E000E91260 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDF253C3281779E000E91260 /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED07C5D22826EE73007229A9 /* PlayerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerRow.swift; sourceTree = "<group>"; };
+		ED07C5D42826F0C5007229A9 /* PlayerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerList.swift; sourceTree = "<group>"; };
 		EDF253BC281779DD00E91260 /* NBA Player Fun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NBA Player Fun.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDF253BF281779DD00E91260 /* NBA_Player_FunApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NBA_Player_FunApp.swift; sourceTree = "<group>"; };
 		EDF253C1281779DD00E91260 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				EDF253C3281779E000E91260 /* Assets.xcassets */,
 				EDF253C5281779E000E91260 /* Preview Content */,
 				EDF253E928178B9E00E91260 /* StatText.swift */,
+				ED07C5D22826EE73007229A9 /* PlayerRow.swift */,
+				ED07C5D42826F0C5007229A9 /* PlayerList.swift */,
 			);
 			path = "NBA Player Fun";
 			sourceTree = "<group>";
@@ -146,6 +152,8 @@
 				EDF253C2281779DD00E91260 /* ContentView.swift in Sources */,
 				EDF253E828177CAD00E91260 /* Player.swift in Sources */,
 				EDF253EA28178B9E00E91260 /* StatText.swift in Sources */,
+				ED07C5D32826EE73007229A9 /* PlayerRow.swift in Sources */,
+				ED07C5D52826F0C5007229A9 /* PlayerList.swift in Sources */,
 				EDF253C0281779DD00E91260 /* NBA_Player_FunApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
